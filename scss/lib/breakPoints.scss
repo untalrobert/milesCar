@@ -1,0 +1,127 @@
+
+
+// formulario section 
+
+@media screen and (max-width: 768px) {
+        
+
+    .input-daterange {
+        padding-right: 10px;
+    }
+    .no-padding {
+      padding-left: 0px;
+    }
+    .reset {
+      padding-left: 0px!important;
+      padding-right: 0px !important;
+    }
+
+    .content__form_inputs {
+        input {
+            padding-top: 15px;
+        }
+        .input-group   {
+            #start, #end {
+                height: 80px!important;
+                // border-radius: 7px; 
+                // padding: 0px;
+                margin: 0px;
+                margin-left: 0px!important;
+                margin-right: 0px!important;
+                border-right-width: 0px;
+                border-left-width: 0px;
+
+                ::placeholder {
+                    margin-top: -300px;
+                }
+            }   
+        }  
+    }
+  }
+  
+
+  @media screen and (max-width: 480px) {
+    .fa-calendar {
+        position: absolute;
+        top: 17px;
+        font-size: 20px;
+        z-index: 1000;
+    }
+    
+    #fa-1 {
+        left: calc(50% - 165px)
+    }
+    
+    #fa-2 {
+        left: calc(100% - 170px)
+    } 
+    
+    .form__btn {
+        .btn {
+          left: 141px;
+          top: 0px;
+        }
+      }
+
+  }
+  @media screen and (max-width: 411px) {
+    
+    
+    #fa-1 {
+        left: calc(50% - 180px)
+    }
+    
+    #fa-2 {
+        left: calc(100% - 187px)
+    }   
+
+  }
+  @media screen and (max-width: 414px) {
+    
+    
+    #fa-1 {
+        left: calc(50% - 180px)
+    }
+    
+    #fa-2 {
+        left: calc(100% - 187px)
+    }   
+
+  }
+  @media screen and (max-width: 375px) {
+    
+    #fa-1 {
+        left: calc(50% - 162px)
+    }
+    
+    #fa-2 {
+        left: calc(100% - 166px)
+    }
+    
+    .form__btn {
+        .btn {
+          left: 112px!important;
+          top: 0px;
+        }
+      }
+
+  }
+  @media screen and (max-width: 320px) {
+    
+    #fa-1 {
+        left: calc(50% - 137px)
+    }
+    
+    #fa-2 {
+        left: calc(100% - 140px)
+    }
+    .form__btn {
+        .btn {
+          left: 91px!important;
+          top: 0px;
+        }
+      }  
+
+  }
+
+  

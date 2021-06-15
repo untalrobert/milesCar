@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="2878" height="2573" viewBox="0 0 2878 2573">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.5" y1="0.995" x2="0.496" y2="0.84" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#ee4b56"/>
+      <stop offset="1" stop-color="#e6484b"/>
+    </linearGradient>
+    <clipPath id="clip-path">
+      <rect id="Rectángulo_1024" data-name="Rectángulo 1024" width="2878" height="2573" transform="translate(24.701 130.803)" fill="#fff" stroke="#707070" stroke-width="1"/>
+    </clipPath>
+    <clipPath id="clip-path-2">
+      <ellipse id="Elipse_277" data-name="Elipse 277" cx="5344" cy="5344.5" rx="5344" ry="5344.5" transform="translate(-0.062 0.348)" fill="url(#linear-gradient)"/>
+    </clipPath>
+    <linearGradient id="linear-gradient-3" x1="0.261" y1="0.914" x2="0.674" y2="0.795" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#e6484b"/>
+      <stop offset="1" stop-color="#e6484b"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-4" x1="0.5" y1="0.995" x2="0.496" y2="0.84" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#ee4b56"/>
+      <stop offset="1" stop-color="#ffcccd"/>
+    </linearGradient>
+  </defs>
+  <g id="bg-qs" transform="translate(-24.7 -130.803)" clip-path="url(#clip-path)">
+    <g id="Enmascarar_grupo_12" data-name="Enmascarar grupo 12" transform="translate(-3880.238 -7991.546)" clip-path="url(#clip-path-2)">
+      <g id="bg" transform="translate(0 0)">
+        <ellipse id="Elipse_272" data-name="Elipse 272" cx="5344" cy="5344.5" rx="5344" ry="5344.5" transform="translate(-0.062 0.348)" fill="url(#linear-gradient)"/>
+        <ellipse id="Elipse_273" data-name="Elipse 273" cx="1849.5" cy="1849" rx="1849.5" ry="1849" transform="translate(4375.938 6797.349)" opacity="0.22" fill="url(#linear-gradient-3)" style="mix-blend-mode: multiply;isolation: isolate"/>
+        <ellipse id="Elipse_274" data-name="Elipse 274" cx="2374" cy="2374.5" rx="2374" ry="2374.5" transform="translate(212.938 5707.349)" opacity="0.24" fill="url(#linear-gradient-4)" style="mix-blend-mode: overlay;isolation: isolate"/>
+        <ellipse id="Elipse_275" data-name="Elipse 275" cx="1602" cy="1603" rx="1602" ry="1603" transform="translate(4221.938 10000.349)" opacity="0.2" fill="url(#linear-gradient-4)" style="mix-blend-mode: overlay;isolation: isolate"/>
+        <circle id="Elipse_276" data-name="Elipse 276" cx="1819.43" cy="1819.43" r="1819.43" transform="translate(4779.623 5396.837)" opacity="0.26" fill="url(#linear-gradient-4)" style="mix-blend-mode: overlay;isolation: isolate"/>
+      </g>
+    </g>
+  </g>
+</svg>
